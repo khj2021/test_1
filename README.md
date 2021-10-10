@@ -1,2 +1,2 @@
 # test_1
-This is a description.
+This is a repository for khj.
